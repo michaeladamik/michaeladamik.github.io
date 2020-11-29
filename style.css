@@ -44,11 +44,21 @@ li a:hover {
 }
 
 .img-responsive {
-  padding-top: 50px;
+  padding-top: 150px;
   display: block;
   max-width: 100%;
   height: 500px;
   border-radius: 50%;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
 
 #photo {
