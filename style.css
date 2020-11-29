@@ -44,10 +44,10 @@ li a:hover {
 }
 
 .img-responsive {
-  padding-top: 150px;
+  padding-top: 100px;
   display: block;
   max-width: 100%;
-  height: 500px;
+  height: auto;
   border-radius: 50%;
 }
 
@@ -61,6 +61,10 @@ li a:hover {
   text-align: center;
 }
 
+.p-footer {
+  font-size: 1vw;
+}
+
 #photo {
     width: 600px;
 	height: 250px;
@@ -69,5 +73,5 @@ li a:hover {
 
 p {
   margin: 0;
-  font-size: 25px;
+  font-size: 2vw;
 }
